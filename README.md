@@ -62,9 +62,11 @@ In December 2013, Laravel became one of the most popular PHP frameworks, accordi
 
 ## This is For code download registration and login page 
 
-### [ 1 ]  composer require laravel/ui -vvv
+### [ 1 ]    
+    composer require laravel/ui -vvv
 
-### [ 2 ]  php artisan make:auth
+### [ 2 ]  
+    php artisan make:auth
 
 
 
