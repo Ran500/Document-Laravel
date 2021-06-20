@@ -60,8 +60,11 @@ composer create-project --prefer-dist laravel/laravel blog "5.7.*"
 
 
 
+## This is For code download registration and login page 
 
+### [ 1 ]  composer require laravel/ui -vvv
 
+### [ 2 ]  php artisan make:auth
 
 
 
