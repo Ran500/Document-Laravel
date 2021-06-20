@@ -34,10 +34,13 @@ composer create-project --prefer-dist laravel/laravel blog "5.7.*"
 
 
 
-# Download the registration and login page : 
+# Download the registration and login page 
 
 
 ![‏‏لقطة الشاشة (72)_LI](https://user-images.githubusercontent.com/75973328/122689175-6aaac280-d229-11eb-97b8-bd3041881053.jpg)
 
 
+
+
+![‏‏لقطة الشاشة (73)](https://user-images.githubusercontent.com/75973328/122689199-929a2600-d229-11eb-8d14-f66f3489deb8.png)
 
